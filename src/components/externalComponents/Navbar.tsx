@@ -49,9 +49,12 @@ const Navbar: React.FC<NavigationProps> = () => {
         <div className="space-x-10 hidden lg:flex" >
         <ul className='flex space-x-16  text-xl'>
         {navigationItems.map((item) => (
-
             <li className='' key={item.key}>
-            <Link to={t(`${item.href}`)} className={location.pathname === `${t(`${item.href}`)}` ? 'border-b-4 border-b-[#4A9BDD] py-2 ' : ''}>{t(`${item.text}`)}</Link>
+            {item.key === 'Blog' ? (
+              <a href={t(`${item.href}`)} target="_blank" rel="noopener noreferrer" className={location.pathname === `${t(`${item.href}`)}` ? 'border-b-4 border-b-[#4A9BDD] py-2 ' : ''}>{t(`${item.text}`)}</a>
+            ) : (
+              <Link to={t(`${item.href}`)} className={location.pathname === `${t(`${item.href}`)}` ? 'border-b-4 border-b-[#4A9BDD] py-2 ' : ''}>{t(`${item.text}`)}</Link>
+            )}
           </li>
         ))}
        

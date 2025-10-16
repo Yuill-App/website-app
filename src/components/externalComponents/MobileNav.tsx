@@ -46,7 +46,7 @@ const MobileNav: React.FC<NavigationProps> = () => {
                 <div className=" gap-6 flex flex-col">
 
                     <Link to="/download">
-                        <Button title="Sell on Yulii" bgColor='bg-secondary2' />
+                        <Button title={t(`sellButton`)} bgColor='bg-secondary2' />
                     </Link>
                 </div>
             </ul></div>

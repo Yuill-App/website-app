@@ -4,7 +4,7 @@
         "title2": "fun organizing",
         "title3": "daily activities with your",
         "title4": "loved ones",
-        "homepageVideo": "https://www.youtube.com/watch?v=8F6rgS2fO-E",
+        "homepageVideo": "https://www.youtube.com/watch?v=JNyQYLAWa-8",
         "subtitle": "Yulii is the mobile application that allows you to organize daily activities with your loved ones. It features a point-awarded task allocation system, motivating your family and friends with rewards after completing tasks, and vice versa",
         "sections": {
             "section1": {
@@ -139,7 +139,7 @@
                 "id": 3,
                 "icon": "../src/assets/messages.png",
                 "caption": "Email Us",
-                "text": "Have a question or need assistance? We're just an email away. Drop us a message, and our dedicated support team will get back to you promptly contact.yuliigames.com"
+                "text": "Have a question or need assistance? We're just an email away. Drop us a message, and our dedicated support team will get back to you promptly contact@yuliigames.com"
             }
         ]
     },
@@ -320,7 +320,7 @@
             },
             {
                 "title": "Contacting us",
-                "text": "If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contact@yuliigames.com. This document was last updated on April 28, 2023"
+                "text": "If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to contact@yuliigames.com. This document was last updated on April 28, 2024"
             }
         ]
     },
@@ -372,6 +372,7 @@
             }
           ]
     },
+
     "prousers": {
         "title": "The ultimate platform for enjoyable activities",
         "text": "With Yulii you're in control of reaching more fans, friends and family by offering enticing promotions and delivering exceptional experiences",
@@ -439,6 +440,11 @@
             "href": "/how-it-works"
         },
         {
+            "key": "Blog",
+            "text": "Blog",
+            "href": "https://blogs.yuliigames.com/"
+        },
+        {
             "key": "contact",
             "text": "Contact",
             "href": "/contact"
@@ -481,6 +487,18 @@
           "href": "/contact"
         }
       ],
+      "footerText": {
+        "address": "8 the green ste b dover, DE 19901",
+        "addressHead": "Company",
+         "slug": "Have fun organizing daily activities with your loved ones"
+      },
+      "Contact":"Contact",
+      "Pro Users":"Pro Users",
+      "How it works":"How it works",
+      "Help":"Help",
+      "Terms of Use":"Terms of Use",
+      "Privacy Policy":"Privacy Policy",
+      "Company":"Quick links",
       "sellButton" : "Sell on Yulii",
       "downlaodPage" : {"title": "Ready to start selling? We can help!", "content":"Discover the ultimate convenience! Our app is super user-friendly and makes showcasing your goods and products a breeze. Join us now and effortlessly reach a wider audience. Download the app today and get started in just minutes!"}
      

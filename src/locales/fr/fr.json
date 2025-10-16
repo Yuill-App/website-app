@@ -3,7 +3,7 @@
     "title1": "Amusez-vous à",
     "title2": "organiser des activités",
     "title3": "quotidiennes avec",
-    "homepageVideo": "https://www.youtube.com/watch?v=iaOtZfJZ-Lw",
+    "homepageVideo": "https://www.youtube.com/watch?v=aqgIbQ-dhHk",
     "title4": "vos proches",
     "subtitle": "Yulii est l’application mobile qui vous permet d’organiser vos activités quotidiennes avec vos proches. Avec un système d’attribution de tâches avec des points, vous pouvez motiver votre famille et vos amis à mériter votre attention, et les récompenser avec des cadeaux et vice versa.",
     "sections": {
@@ -133,14 +133,14 @@
       {
         "id": 1,
         "icon": "../src/assets/sms.png",
-        "caption": "Envoyez nous un e-mail",
+        "caption": "Discutez avec nous",
         "text": "Recherchez l’icône de la bulle de chat dans le coin inférieur droit de votre écran. Il vous suffit de cliquer dessus pour lancer une session de chat avec nous. Alternativement, vous pouvez avoir un système de tickets d’assistance dédié ici"
       },
       {
         "id": 3,
         "icon": "../src/assets/messages.png",
-        "caption": "Discutez avec nous",
-        "text": "Vous avez une question ou vous avez besoin d’aide ? Nous ne sommes qu’à un e-mail. Envoyez-nous un message, et notre équipe d’assistance dédiée vous répondra rapidement contact.yuliigames.com"
+        "caption": "Envoyez nous un e-mail",
+        "text": "Vous avez une question ou vous avez besoin d’aide ? Nous ne sommes qu’à un e-mail. Envoyez-nous un message, et notre équipe d’assistance dédiée vous répondra rapidement contact@yuliigames.com"
       }
     ]
   },
@@ -243,7 +243,7 @@
       },
       {
         "question": "Nous contacter",
-        "answer": "Si vous souhaitez nous contacter pour en savoir plus sur cette politique ou si vous souhaitez nous contacter concernant toute question relative aux droits individuels et à vos informations personnelles, vous pouvez envoyer un e-mail à contact@yuliigames.com Ce document a été mis à jour pour la dernière fois le 28 avril 2023"
+        "answer": "Si vous souhaitez nous contacter pour en savoir plus sur cette politique ou si vous souhaitez nous contacter concernant toute question relative aux droits individuels et à vos informations personnelles, vous pouvez envoyer un e-mail à contact@yuliigames.com Ce document a été mis à jour pour la dernière fois le 28 avril 2024"
       }
     ]
   },
@@ -321,7 +321,7 @@
       },
       {
         "title": "Nous contacter",
-        "text": "Si vous souhaitez nous contacter pour en savoir plus sur cet accord ou si vous souhaitez nous contacter concernant toute question le concernant, vous pouvez envoyer un e-mail à contact@yuliigames.com. Ce document a été mis à jour pour la dernière fois le 28 avril 2023"
+        "text": "Si vous souhaitez nous contacter pour en savoir plus sur cet accord ou si vous souhaitez nous contacter concernant toute question le concernant, vous pouvez envoyer un e-mail à contact@yuliigames.com. Ce document a été mis à jour pour la dernière fois le 28 avril 2024"
       }
     ]
   },
@@ -436,8 +436,13 @@
     },
     {
       "key": "How it works",
-      "text": "Comment ça fonctionne.",
+      "text": "Comment ça fonctionne",
       "href": "/how-it-works"
+    },
+    {
+        "key": "Blog",
+        "text": "Blog",
+        "href": "https://blogs.yuliigames.com"
     },
     {
       "key": "contact",
@@ -482,8 +487,20 @@
       "href": "/contact"
     }
   ],
+  "footerText": {
+    "address": "25 RUE DE PONTHIEU 75008 PARIS",
+    "addressHead": "Société",
+     "slug": "Amusez-vous à organiser les activités quotidiennes avec vos proches"
+  },
+  "Contact":"Contact",
+  "Pro Users":"Utilisateurs professionnels",
+  "How it works":"Comment ça marche",
+  "Help":"Aide",
+  "Terms of Use":"Conditions d'utilisation",
+  "Privacy Policy":"politique de confidentialité",
+  "Company":"Autres liens",
 
-  "sellButton" : "Vendre sur Yulli",
+  "sellButton" : "Vendre sur Yulii",
 
   "downlaodPage" : {"title": "Prêt à vendre ? Nous pouvons vous aider !", "content":"Découvrez la commodité ultime ! Notre application est super conviviale et facilite la présentation de vos produits. Rejoignez-nous maintenant et atteignez sans effort un public plus large. Téléchargez l’application dès aujourd’hui et commencez en quelques minutes !"}
      
